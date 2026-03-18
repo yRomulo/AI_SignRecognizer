@@ -1,0 +1,5 @@
+.venv/
+.venv
+__pycache__/
+*.bak
+.python-version
