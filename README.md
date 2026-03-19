@@ -1,11 +1,4 @@
----
-title: AI SignRecognizer
-emoji: 🖐️
-colorFrom: indigo
-colorTo: green
-sdk: docker
-pinned: false
----
+
 
 # 🚀 AI SignRecognizer
 
@@ -86,3 +79,13 @@ computer_vision_app/
 └── assets/
     └── style.css / script.js / images/ # Dependências Estáticas do FastHTML
 ```
+
+## HanggingFace settings
+---
+title: AI SignRecognizer
+emoji: 🖐️
+colorFrom: indigo
+colorTo: green
+sdk: docker
+pinned: false
+---
